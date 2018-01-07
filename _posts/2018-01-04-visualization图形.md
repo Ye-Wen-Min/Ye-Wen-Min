@@ -1,13 +1,12 @@
 ---
 layout: article
 title:  "信息可视化各种图形的特点"
-date:   2018-01-04 
-categories: posts infovis 
+date:   2017-01-04 22:07:50 +0800
+categories: portfolio infovis visualization
 image:
   teaser: research.jpg
   feature: research.jpg
 ---
-
 
 #### 信息可视化各种图形的特点
 

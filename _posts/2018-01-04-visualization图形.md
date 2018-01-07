@@ -2,7 +2,7 @@
 layout: article
 title:  "信息可视化各种图形的特点"
 date:   2018-01-04 
-categories: infovis 
+categories:post  infovis 
 image:
   teaser: research.jpg
   feature: research.jpg

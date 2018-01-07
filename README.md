@@ -1,17 +1,10 @@
-# Skinny Bones Jekyll Starter
+**关于嘟嘟的个人blog**
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+* 很荣幸能成为被你所阅读的一个blog
+* 这个blog希望能够记录有关我学习网络新媒体的历程
+* 这里会分享一些关于学习网页设计与制作和信息可视化的讯息
+* 同时也会向大家分享关于我的个人作品
+* 关于一枚前进嘟嘟少女的期末blog
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
----
-
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.

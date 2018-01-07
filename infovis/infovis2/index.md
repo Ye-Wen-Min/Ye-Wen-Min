@@ -1,0 +1,20 @@
+---
+layout: article
+title:  "期末高德地图api信息可视化作品"
+date:   2017-01-04 22:07:50 +0800
+categories: portfolio infovis visualization
+image:
+  teaser: eat.jpg
+  feature: eat.jpg
+---
+
+#### 研究茶餐厅在中国分布的地区和数量
+
+
+#### 引言
+对于作为广东人的我来说，平时周末就餐喜欢去茶餐厅，在饮食多样化的中国，对有关饮食的方面想做更深一步的研究。于是选择了我喜欢的茶餐厅进行有关的研究。
+
+
+
+#### 作品传送门（点击下列链接)：
+- #### <a href="https://public.tableau.com/views/_18391/4?:embed=y&:display_count=yes&publish=yes">研究茶餐厅在中国分布的地区和数量</a>
